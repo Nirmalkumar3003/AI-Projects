@@ -1,0 +1,6 @@
+{
+  "name": "Expense Tracker",
+  "description": "An interactive personal finance expense tracker web application with dynamic budget limits, detailed lists, and graphical spending breakdown charts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
