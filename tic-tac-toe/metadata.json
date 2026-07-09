@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A modern, highly polished Tic Tac Toe game featuring neon-glassmorphic styling, score tracking, responsive animations, sound effects, and a dark/light mode toggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
