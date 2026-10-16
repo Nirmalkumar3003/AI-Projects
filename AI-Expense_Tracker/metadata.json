@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA - AI Futuristic Expense Tracker",
+  "description": "Futuristic personal finance command center and AI financial assistant with predictive insights, budgeting, analytics, and intelligent spending tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
